@@ -2,7 +2,7 @@
 
 #art-main
 {
-   background: #FCFCFC url('images/page.png') scroll;
+   background: #FCFCFC url('page.png') scroll;
    margin:0 auto;
    font-size: 13px;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
@@ -3057,3 +3057,4 @@ blockquote p,
 min-height: 0 !important;
 }
 /* End Additional CSS Styles */
+
