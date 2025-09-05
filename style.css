@@ -2361,7 +2361,7 @@ pre
 
 .art-postediticon:before
 {
-   content:url('images/postediticon.png');
+   content:url('postediticon.png');
    margin-right:6px;
    position:relative;
    display:inline-block;
@@ -2378,7 +2378,7 @@ pre
 
 .art-postcontent ul>li:before,  .art-post ul>li:before,  .art-textblock ul>li:before
 {
-   content:url('images/postbullets.png');
+   content:url('postbullets.png');
    margin-right:6px;
    bottom: 2px;
    position:relative;
@@ -3055,5 +3055,6 @@ blockquote p,
 min-height: 0 !important;
 }
 /* End Additional CSS Styles */
+
 
 
