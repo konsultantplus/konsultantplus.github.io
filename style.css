@@ -525,7 +525,7 @@ text-shadow: 1px 0px 0px rgb(255, 255, 255), -1px 0px 0px rgb(255, 255, 255), 0p
    margin:0 auto;
    background-repeat: no-repeat;
    height: 100px;
-   background-image: url('images/object1704641434.png'), url('images/header.png');
+   background-image: url('object1704641434.png'), url('header.png');
    background-position: -247px -90px, 0 0;
    position: relative;
    width: 800px;
@@ -534,14 +534,14 @@ text-shadow: 1px 0px 0px rgb(255, 255, 255), -1px 0px 0px rgb(255, 255, 255), 0p
 
 .custom-responsive .art-header
 {
-   background-image: url('images/object1704641434.png'), url('images/header.png');
+   background-image: url('object1704641434.png'), url('header.png');
    background-position: -247px -90px, 0 0;
 }
 
 .default-responsive .art-header,
 .default-responsive #art-header-bg
 {
-   background-image: url('images/header.png');
+   background-image: url('header.png');
    background-position: center center;
    background-size: cover;
 }
@@ -561,8 +561,8 @@ text-shadow: 1px 0px 0px rgb(255, 255, 255), -1px 0px 0px rgb(255, 255, 255), 0p
 
 .art-nav
 {
-   background: #3B3B3B url('images/nav.png') scroll;
-   background: transparent url('images/nav.png') scroll;
+   background: #3B3B3B url('nav.png') scroll;
+   background: transparent url('nav.png') scroll;
    -webkit-border-radius:0 0 19px 19px;
    -moz-border-radius:0 0 19px 19px;
    border-radius:0 0 19px 19px;
@@ -892,7 +892,7 @@ ul.art-hmenu ul
    z-index: 10;
    left: 0;
    top: 0;
-   background-image: url('images/spacer.gif');
+   background-image: url('spacer.gif');
 }
 
 .desktop ul.art-hmenu>li>ul
@@ -1129,7 +1129,7 @@ ul.art-vmenu>li:first-child
 
 ul.art-vmenu>li>a:before
 {
-   content:url('images/vmenuitemicon.png');
+   content:url('vmenuitemicon.png');
    margin-right:5px;
    bottom: 2px;
    position:relative;
@@ -1146,7 +1146,7 @@ ul.art-vmenu>li>a:before
 
 ul.art-vmenu>li>a.active:before
 {
-   content:url('images/vmenuactiveitemicon.png');
+   content:url('vmenuactiveitemicon.png');
    margin-right:5px;
    bottom: 2px;
    position:relative;
@@ -1163,7 +1163,7 @@ ul.art-vmenu>li>a.active:before
 
 ul.art-vmenu>li>a:hover:before,  ul.art-vmenu>li>a.active:hover:before,  ul.art-vmenu>li:hover>a:before,  ul.art-vmenu>li:hover>a.active:before
 {
-   content:url('images/vmenuhovereditemicon.png');
+   content:url('vmenuhovereditemicon.png');
    margin-right:5px;
    bottom: 2px;
    position:relative;
@@ -1397,7 +1397,7 @@ div.art-block img
 
 .art-blockheader .t:before
 {
-   content:url('images/blockheadericon.png');
+   content:url('blockheadericon.png');
    margin-right:6px;
    bottom: 2px;
    position:relative;
@@ -1462,7 +1462,7 @@ div.art-block img
 }
 .art-block ul>li:before
 {
-   content:url('images/blockbullets.png');
+   content:url('blockbullets.png');
    margin-right:6px;
    bottom: 2px;
    position:relative;
@@ -2276,7 +2276,7 @@ pre
 
 .art-postdateicon:before
 {
-   content:url('images/postdateicon.png');
+   content:url('postdateicon.png');
    margin-right:6px;
    position:relative;
    display:inline-block;
@@ -2293,7 +2293,7 @@ pre
 
 .art-postauthoricon:before
 {
-   content:url('images/postauthoricon.png');
+   content:url('postauthoricon.png');
    margin-right:6px;
    position:relative;
    display:inline-block;
@@ -2310,7 +2310,7 @@ pre
 
 .art-postpdficon:before
 {
-   content:url('images/postpdficon.png');
+   content:url('postpdficon.png');
    margin-right:6px;
    position:relative;
    display:inline-block;
@@ -2327,7 +2327,7 @@ pre
 
 .art-postprinticon:before
 {
-   content:url('images/postprinticon.png');
+   content:url('postprinticon.png');
    margin-right:6px;
    position:relative;
    display:inline-block;
@@ -2344,7 +2344,7 @@ pre
 
 .art-postemailicon:before
 {
-   content:url('images/postemailicon.png');
+   content:url('postemailicon.png');
    margin-right:6px;
    position:relative;
    display:inline-block;
@@ -2523,7 +2523,7 @@ blockquote p,
 
 .art-postcategoryicon:before
 {
-   content:url('images/postcategoryicon.png');
+   content:url('postcategoryicon.png');
    margin-right:6px;
    position:relative;
    display:inline-block;
@@ -2540,7 +2540,7 @@ blockquote p,
 
 .art-posttagicon:before
 {
-   content:url('images/posttagicon.png');
+   content:url('posttagicon.png');
    margin-right:6px;
    position:relative;
    display:inline-block;
@@ -2557,7 +2557,7 @@ blockquote p,
 
 .art-postcommentsicon:before
 {
-   content:url('images/postcommentsicon.png');
+   content:url('postcommentsicon.png');
    margin-right:6px;
    position:relative;
    display:inline-block;
@@ -2690,7 +2690,7 @@ blockquote p,
 
 .art-facebook-tag-icon
 {
-   background:  url('images/footerfacebookicon.png') no-repeat scroll;
+   background:  url('footerfacebookicon.png') no-repeat scroll;
    margin:0 auto;
    min-height:32px;
    min-width:32px;
@@ -2707,7 +2707,7 @@ blockquote p,
 
 .art-twitter-tag-icon
 {
-   background:  url('images/footertwittericon.png') no-repeat scroll;
+   background:  url('footertwittericon.png') no-repeat scroll;
    margin:0 auto;
    min-height:32px;
    min-width:32px;
@@ -2724,7 +2724,7 @@ blockquote p,
 
 .art-tumblr-tag-icon
 {
-   background:  url('images/tumblricon.png') no-repeat scroll;
+   background:  url('tumblricon.png') no-repeat scroll;
    margin:0 auto;
    min-height:32px;
    min-width:32px;
@@ -2741,7 +2741,7 @@ blockquote p,
 
 .art-pinterest-tag-icon
 {
-   background:  url('images/pinteresticon.png') no-repeat scroll;
+   background:  url('pinteresticon.png') no-repeat scroll;
    margin:0 auto;
    min-height:32px;
    min-width:32px;
@@ -2758,7 +2758,7 @@ blockquote p,
 
 .art-vimeo-tag-icon
 {
-   background:  url('images/vimeoicon.png') no-repeat scroll;
+   background:  url('vimeoicon.png') no-repeat scroll;
    margin:0 auto;
    min-height:33px;
    min-width:32px;
@@ -2775,7 +2775,7 @@ blockquote p,
 
 .art-youtube-tag-icon
 {
-   background:  url('images/youtubeicon.png') no-repeat scroll;
+   background:  url('youtubeicon.png') no-repeat scroll;
    margin:0 auto;
    min-height:32px;
    min-width:32px;
@@ -2792,7 +2792,7 @@ blockquote p,
 
 .art-linkedin-tag-icon
 {
-   background:  url('images/linkedinicon.png') no-repeat scroll;
+   background:  url('linkedinicon.png') no-repeat scroll;
    margin:0 auto;
    min-height:32px;
    min-width:32px;
@@ -2891,7 +2891,7 @@ blockquote p,
 
 .art-lightbox-wrapper .loading
 {
-   background: #fff url('images/preloader-01.gif') center center no-repeat;
+   background: #fff url('preloader-01.gif') center center no-repeat;
    border: 1px solid #b4b4b4;
    border-radius: 10px;
    box-shadow: 0 2px 5px #333;
@@ -3055,6 +3055,7 @@ blockquote p,
 min-height: 0 !important;
 }
 /* End Additional CSS Styles */
+
 
 
 
